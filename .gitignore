@@ -4,7 +4,7 @@
 dist
 node_modules
 package-lock.json
-.bin
+
 
 vendor
 composer.lock
@@ -26,3 +26,6 @@ content/themes/*
 content/plugins/*
 !content/plugins/
 #!/content/plugins/custom_plugin
+
+/.bin 
+
