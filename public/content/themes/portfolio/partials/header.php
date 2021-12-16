@@ -1,7 +1,7 @@
 <section id="colorlib-hero" class="js-fullheight" data-section="home">
                     <div class="flexslider js-fullheight">
                         <ul class="slides">
-                            <li style="background-image: url(images/img_bg_1.jpg);">
+                            <li class="first-image">
                                 <div class="overlay"></div>
                                 <div class="container-fluid">
                                     <div class="row">
@@ -17,7 +17,7 @@
                                     </div>
                                 </div>
                             </li>
-                            <li style="background-image: url(img_bg_2.jpg);">
+                            <li class="second-image">
                                 <div class="overlay"></div>
                                 <div class="container-fluid">
                                     <div class="row">

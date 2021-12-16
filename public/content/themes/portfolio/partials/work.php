@@ -13,7 +13,7 @@
                         </div>
                         <div class="row">
                             <div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
-                                <div class="project" style="background-image: url(images/img-1.jpg);">
+                                <div class="project project-one">
                                     <div class="desc">
                                         <div class="con">
                                             <h3><a href="work.html">Work 01</a></h3>
@@ -28,7 +28,7 @@
                                 </div>
                             </div>
                             <div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
-                                <div class="project" style="background-image: url(images/img-2.jpg);">
+                                <div class="project project-two">
                                     <div class="desc">
                                         <div class="con">
                                             <h3><a href="work.html">Work 02</a></h3>
@@ -43,7 +43,7 @@
                                 </div>
                             </div>
                             <div class="col-md-6 animate-box" data-animate-effect="fadeInTop">
-                                <div class="project" style="background-image: url(images/img-3.jpg);">
+                                <div class="project project-three">
                                     <div class="desc">
                                         <div class="con">
                                             <h3><a href="work.html">Work 03</a></h3>
@@ -58,7 +58,7 @@
                                 </div>
                             </div>
                             <div class="col-md-6 animate-box" data-animate-effect="fadeInBottom">
-                                <div class="project" style="background-image: url(images/img-4.jpg);">
+                                <div class="project project-four">
                                     <div class="desc">
                                         <div class="con">
                                             <h3><a href="work.html">Work 04</a></h3>
@@ -73,7 +73,7 @@
                                 </div>
                             </div>
                             <div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
-                                <div class="project" style="background-image: url(images/img-5.jpg);">
+                                <div class="project project-five">
                                     <div class="desc">
                                         <div class="con">
                                             <h3><a href="work.html">Work 05</a></h3>
@@ -88,7 +88,7 @@
                                 </div>
                             </div>
                             <div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
-                                <div class="project" style="background-image: url(images/img-6.jpg);">
+                                <div class="project project-six">
                                     <div class="desc">
                                         <div class="con">
                                             <h3><a href="work.html">Work 06</a></h3>
