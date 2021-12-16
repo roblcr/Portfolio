@@ -27,5 +27,5 @@ content/plugins/*
 !content/plugins/
 #!/content/plugins/custom_plugin
 
-/.bin 
+ 
 

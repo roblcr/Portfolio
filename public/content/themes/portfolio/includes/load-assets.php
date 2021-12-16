@@ -7,7 +7,6 @@ function portfolio_load_assets()
         "assets/css/icomoon.css",
         "assets/css/bootstrap.css",
         "assets/css/flexslider.css",
-        "assets/fonts/flaticon/font/flaticon.css",
         "assets/css/owl.carousel.min.css",
         "assets/css/owl.theme.default.min.css",
         "assets/css/style.css"
