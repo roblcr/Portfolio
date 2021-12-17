@@ -1,7 +1,12 @@
+<?php 
+$selectedFirstHeaderBackgroundImage = get_theme_mod('header-first-background-image');
+$selectedSecondHeaderBackgroundImage = get_theme_mod('header-second-background-image');
+?>
+
 <section id="colorlib-hero" class="js-fullheight" data-section="home">
                     <div class="flexslider js-fullheight">
                         <ul class="slides">
-                            <li class="first-image">
+                            <li style="background-image: url(<?=$selectedFirstHeaderBackgroundImage?>);">
                                 <div class="overlay"></div>
                                 <div class="container-fluid">
                                     <div class="row">
@@ -17,7 +22,7 @@
                                     </div>
                                 </div>
                             </li>
-                            <li class="second-image">
+                            <li style="background-image: url(<?=$selectedSecondHeaderBackgroundImage?>);">
                                 <div class="overlay"></div>
                                 <div class="container-fluid">
                                     <div class="row">

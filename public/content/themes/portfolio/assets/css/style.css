@@ -250,12 +250,6 @@ figure {
         background-position: bottom center;
         min-height: 400px;
         position: relative; }
-        #colorlib-hero .flexslider .slides li.first-image{
-          background-image: url(../images/img_bg_1.jpg);
-        }
-        #colorlib-hero .flexslider .slides li.second-image{
-          background-image: url(../images/img_bg_2.jpg);
-        }
     #colorlib-hero .flexslider .flex-control-nav {
       bottom: 20px;
       z-index: 1000;
