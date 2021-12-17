@@ -15,6 +15,18 @@
                                             <div class="timeline-icon color-1">
                                                 <i class="icon-pen2"></i>
                                             </div>
+<?php $args = ['post_type' => 'experience'];
+
+$loop = $args; 
+        
+echo '<div style="border: solid 2px #F00">';
+echo '<div style="; background-color:#CCC">@'.__FILE__.' : '.__LINE__.'</div>';
+echo '<pre style="background-color: rgba(255,255,255, 0.8);">';
+print_r($loop);
+echo '</pre>';
+echo '</div>';
+?>
+
 
                                             <div class="timeline-label">
                                                 <h2><a href="#">Full Stack Developer</a> <span>2017-2018</span></h2>
