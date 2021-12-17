@@ -1,10 +1,14 @@
+<?php 
+$selectedHeaderImage = get_theme_mod('header-aside-profil-image');
+?>
 <div id="colorlib-page">
         <div class="container-wrap">
             <a href="#" class="js-colorlib-nav-toggle colorlib-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i></i></a>
             <aside id="colorlib-aside" role="complementary" class="border js-fullheight">
                 <div class="text-center">
-                    <div class="author-img"></div>
-                    <h1 id="colorlib-logo"><a href="index.html">Jackson Ford</a></h1>
+                    <div class="author-img" style="background-image: url(<?=$selectedHeaderImage?>)">
+                    </div>
+                    <h1 id="colorlib-logo"><a href="index.html">Robin Lecullier</a></h1>
                     <span class="position"><a href="#">UI/UX/Designer</a> in Philippines</span>
                 </div>
                 <nav id="colorlib-main-menu" role="navigation" class="navbar">

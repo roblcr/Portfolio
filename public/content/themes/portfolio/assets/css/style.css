@@ -94,7 +94,6 @@ figure {
       transform: translateX(-300px);
       padding-top: 4em; } }
   #colorlib-aside .author-img {
-    background-image: url(../images/about.jpg);
     width: 150px;
     height: 150px;
     margin: 0 auto;
